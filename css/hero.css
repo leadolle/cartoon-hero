@@ -16,6 +16,8 @@ h1, h2{
 	font-family: 'Chelsea Market', cursive;
 }
 
+/* header styles */
+
 header h1{
 	color: #483D8B;
 	font-size: 40px;
@@ -69,5 +71,16 @@ footer a:hover{
 	background-color: transparent;
 }
 
-
-
+table{
+	text-align: center;
+}
+table,
+td{
+	border: 1px solid #333;
+	text-align: center;
+}
+thead,
+tfoot{
+	background-color: #333;
+	color: #fff;
+}
