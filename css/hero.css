@@ -6,7 +6,7 @@ body{
 }
 
 header{
-	background-color:moccasin; 
+	background-color: lavenderblush; 
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -30,7 +30,8 @@ header img{
 main{
 	max-width: 800px;
 	margin:0 auto;
-	padding: 20px;
+	padding: 20px ;
+	background-color: white;
 }
 
 main img{
@@ -44,15 +45,15 @@ h2{
 }
 
 a{
-	color: #483D8B;
+	color: black;
 }
 a:hover{
-	background-color: yellow;
+	background-color: pink;
 }
 
 
 footer{
-	background-color:moccasin; 
+	background-color: lavenderblush; 
 	text-align: center;
 	color: black;
 	padding: 50px;
@@ -81,6 +82,24 @@ td{
 }
 thead,
 tfoot{
-	background-color: #333;
-	color: #fff;
+	background-color: moccasin;
+	color: #483D8B;
 }
+
+td{
+	text-align: justify;
+
+}
+
+h3{
+	font-size: 15px;
+	color: gray;
+	margin-top: 0
+}
+
+iframe{
+	margin-top: 20px;
+	margin-left: 40px;
+}
+
+
